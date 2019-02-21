@@ -3,10 +3,10 @@
 #   1. Follow the instuction below to register for a developer account: 
 #     https://www.extly.com/docs/autotweetng_joocial/tutorials/how-to-auto-post-from-joomla-to-twitter/apply-for-a-twitter-developer-account/#apply-for-a-developer-account
 #   2. Go to [Twitter's App Page](https://apps.twitter.com) in a web browser.
-#             2. Click on 'create new app'.
-#             3. Give your app a unique name, a description, any relevant web address, and agree to the terms and conditions. Set the callback URL to http://127.0.0.1:1410. You might have to add a cellphone number your twitter account.
-#             4. Go to the keys and access section of the app page, and copy your consumer key and consumer secret to the code below.
-#             5. (optional): For actions requiring write permissions, generate an access token and access secret.
+#             1. Click on 'create new app'.
+#             2. Give your app a unique name, a description, any relevant web address, and agree to the terms and conditions. Set the callback URL to http://127.0.0.1:1410. You might have to add a cellphone number your twitter account.
+#             3. Go to the keys and access section of the app page, and copy your consumer key and consumer secret to the code below.
+#             4. (optional): For actions requiring write permissions, generate an access token and access secret.
 #             (Drafted by Ken Benoit)
 
 # You will also need to install at least the following R packages:

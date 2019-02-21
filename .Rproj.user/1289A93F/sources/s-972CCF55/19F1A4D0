@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2924179741",
     "id" : "19F1A4D0",
-    "lastKnownWriteTime" : 1550691993,
-    "last_content_update" : 1550691993,
+    "lastKnownWriteTime" : 1550775106,
+    "last_content_update" : 1550775106646,
     "path" : "~/GitHub/Twitter Scraper/twitter.R",
     "project_path" : "twitter.R",
     "properties" : {
-        "cursorPosition" : "31,0",
-        "scrollLine" : "16"
+        "cursorPosition" : "8,15",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
